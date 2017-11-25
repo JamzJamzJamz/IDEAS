@@ -1,0 +1,14 @@
+Game is Called BouncyBoi
+Will Be of game where little bouncy boy will need to dodge falling sharp objects
+Since he is bouncy he can only move by bouncing to and from
+Bouncy Boi Movement Physics:
+  - Will bounce in an arc
+  - Can only decide direction while on the ground
+  - While in the air it is up to physics
+Objects Falling:
+  - Will start slowly
+  - Mainly increase in number, then in speed
+  
+Suggestions:
+  - Maybe make the boy more manuverable?
+  - Make movement and dodging feel more gratifying
